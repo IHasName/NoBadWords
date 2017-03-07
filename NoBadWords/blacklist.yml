@@ -1,0 +1,29 @@
+# NoBadWords
+# ingorespacing can be used but can 
+# cause false Cencoring!
+# 
+# useumlauts also blocks oe ae and ue
+
+message: '&cNo you dont'
+useumlauts: true
+ignorespacing: false
+blockedwords:
+  fick:
+    replace: true
+    alt:
+    - flax
+  ficken:
+    replace: true
+    alt:
+    - flecken
+  l2p:
+    replace: true
+    alt:
+    - lets
+  ez:
+    replace: false
+    alt:
+    - es
+   
+  
+    

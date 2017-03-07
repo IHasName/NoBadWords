@@ -1,0 +1,8 @@
+main: de.MrStein.NoBadWords
+name: NoBadWords
+version: 1.0
+author: MrStein
+
+commands:
+  nobadwords:
+    aliases: [nbw]
